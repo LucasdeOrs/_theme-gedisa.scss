@@ -1,0 +1,15 @@
+  --rise-brand-blue: #cb0017;
+  --rise-button-default--bg: var(--rise-brand-blue);
+  --rise-button-default--color: #fff;
+  --rbp-color--primary: #cb0017;
+  --rbp-color--primary-container: #f9e5e7;
+  --rise-table--header-row--bg: #f0f0f0;
+  --rise-topbar--bg: #fff;
+  --logo-width: 3rem;
+  --logo-width-login: 8rem;
+  --logo-url: url('~assets/images/apotheken.svg');
+  --logo-url-login: url('~assets/images/apotheken.svg');
+
+  .secondary-menu--item {
+    color: var(--rise-main-menu-item--color) !important;
+  }

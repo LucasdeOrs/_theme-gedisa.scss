@@ -1,3 +1,6 @@
+@import '../util';
+
+ .theme {
   --rise-brand-blue: #cb0017;
   --rise-button-default--bg: var(--rise-brand-blue);
   --rise-button-default--color: #fff;
@@ -13,3 +16,4 @@
   .secondary-menu--item {
     color: var(--rise-main-menu-item--color) !important;
   }
+}

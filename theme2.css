@@ -12,6 +12,6 @@ body.theme-gedisa {
   --logo-url-login: url('~assets/images/apotheken.svg');
 
   .secondary-menu--item {
-    color: var(--colors-rise-yellow) !important;
+    color: var(--rise-main-menu-item--color) !important;
   }
 }

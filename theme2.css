@@ -1,4 +1,4 @@
-@import 'src\assets\styles\util.scss';
+@import '@import '../util';
 
 body.theme-test {
   --rise-brand-blue: #cb0017;
